@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination":"https://zgamusic163.vercel.app/match*"
+    }
+  ]
+}
